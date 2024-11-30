@@ -1,7 +1,11 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   return (
     <header>
-      <p>GYM TIME</p>
+      <Link to="/" style={{ textDecoration: "none" }}>
+        <p>GYM TIME</p>
+      </Link>
     </header>
   );
 };
