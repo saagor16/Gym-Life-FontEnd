@@ -533,3 +533,10 @@ header p {
     gap: 1px;
   }
 }
+footer {
+  padding: 20px;
+  background: #111;
+  text-align: center;
+  font-size: 20px;
+  color: #0095ff;
+}
