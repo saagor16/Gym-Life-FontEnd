@@ -1,10 +1,9 @@
-
 const Navbar = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <p>GYM TIME</p>
+    </div>
+  );
 };
 
 export default Navbar;
