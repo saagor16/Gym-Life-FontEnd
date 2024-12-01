@@ -1,8 +1,46 @@
-# React + Vite
+# **Gym Time**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gym Time is a modern fitness-focused website designed to help users maintain a healthy lifestyle. The website provides valuable insights about fitness, a BMI calculator for personalized health tracking, and a contact form to send messages directly via email.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
+
+- **BMI Calculator:** Easily calculate your Body Mass Index (BMI) to track fitness goals.
+- **Contact Form:** Users can send messages directly via email.
+- **Fitness Tips:** Information and advice on how to stay fit and healthy.
+- **Responsive Design:** Accessible on all devices with a user-friendly interface.
+
+---
+
+## **Technologies Used**
+
+### **Frontend**
+- **React.js** - Core framework for building the UI.
+- **React Router DOM** - For routing and navigation.
+- **Axios** - For handling API requests.
+- **React Spinners** - For loading indicators.
+- **React Toastify** - For notifications.
+- **Lucide React** - For icons.
+- **CSS** - For styling.
+- **HTML5** - For the website structure.
+
+### **Backend**
+- **Node.js** - Server runtime.
+- **Express.js** - Backend framework.
+- **Nodemailer** - For email functionality.
+
+---
+
+## **Live Demo**
+
+Visit the live site: **[Gym Time Live Site](https://gym-life-font-end.vercel.app/)**
+
+---
+
+## **GitHub Repositories**
+
+- **Frontend:** [GitHub Frontend Repository](https://github.com/saagor16/Gym-Life-FontEnd)
+- **Backend:** [GitHub Backend Repository](https://github.com/saagor16/Gym-Life-BackEnd-)
+
+---
